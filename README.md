@@ -9,13 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/thisisangelo"><img src="https://img.shields.io/badge/GitHub-thisisangelo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hello-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.tiktok.com/@thisisangelo" target="_blank"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
 ## About Me
@@ -26,33 +22,23 @@ I like building software that solves real problems and still feels simple to use
 - Strength: translating messy ideas into clear deliverables
 - Value: clean architecture, readable code, and consistent shipping
 
-## Contribution Snake (Animation)
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thisisangelo/ThisIsAngelo/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" alt="Tech stack icons" />
 </p>
 
-## Current Mission
+## Contribution Snake
 
-```txt
-Ship meaningful products.
-Improve a little every day.
-Help people through technology.
-```
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thisisangelo/thisisangelo/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
-## Let's Collaborate
-
-Open for collaboration, freelance projects, and product discussions.
-
-- Email: YOUR_EMAIL
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- GitHub: https://github.com/YOUR_USERNAME
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:06b6d4,50:1d4ed8,0:0f172a&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=45&section=footer" alt="Waving footer" />
+</p>
+<p align="center">
+  <i>Made with 💙 by <b>TRIA NANDA ADISTI</b></i>
+</p>
