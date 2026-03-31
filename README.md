@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/Tujuhtigapuluh](https://github.com/Tujuhtigapuluh?tab=repositories)"><img src="https://img.shields.io/badge/GitHub-thisisangelo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Tujuhtigapuluh?tab=repositories"><img src="https://img.shields.io/badge/GitHub-thisisangelo-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://mail.google.com/mail/u/2/#inbox"><img src="https://img.shields.io/badge/Email-Say%20Hello-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.tiktok.com/@nkv.hjk.jla" target="_blank"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
