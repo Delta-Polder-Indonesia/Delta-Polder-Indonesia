@@ -64,8 +64,13 @@ Tech: `Next.js` `PostgreSQL` `Prisma`
 Links: [Live Demo](https://DEMO_LINK_2) | [Repository](https://github.com/YOUR_USERNAME/REPO_2)
 
 ## Contribution Snake (Animation)
-
-> Aktifkan GitHub Action `Platane/snk` di repo profil kamu untuk menampilkan animasi ini.
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thisisangelo/ThisIsAngelo/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
