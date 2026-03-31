@@ -26,43 +26,6 @@ I like building software that solves real problems and still feels simple to use
 - Strength: translating messy ideas into clear deliverables
 - Value: clean architecture, readable code, and consistent shipping
 
-## Animated Highlights
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-bg=true&no-frame=true&column=7" alt="GitHub trophies" />
-</p>
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" alt="Tech stack icons" />
-</p>
-
-## Featured Projects
-
-### PROJECT_NAME_1
-Short pitch: what it does, who it helps, and why it matters.
-
-Tech: `React` `TypeScript` `Tailwind` `Node.js`
-
-Links: [Live Demo](https://DEMO_LINK_1) | [Repository](https://github.com/YOUR_USERNAME/REPO_1)
-
-### PROJECT_NAME_2
-Short pitch: what problem it solves and what result it created.
-
-Tech: `Next.js` `PostgreSQL` `Prisma`
-
-Links: [Live Demo](https://DEMO_LINK_2) | [Repository](https://github.com/YOUR_USERNAME/REPO_2)
-
 ## Contribution Snake (Animation)
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -72,8 +35,10 @@ Links: [Live Demo](https://DEMO_LINK_2) | [Repository](https://github.com/YOUR_U
   <br/><br/><br/>
 </div>
 
+## Tech Stack
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" alt="Tech stack icons" />
 </p>
 
 ## Current Mission
