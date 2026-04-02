@@ -1,4 +1,4 @@
-<h1 align="center">Bintang Toba</h1>
+<h1 align="center">PT. Delta Polder Indonesia</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Welcome%20to%20my%20GitHub&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Building%20useful%20products%20with%20clean%20code&descAlignY=58" alt="Waving header" />
@@ -39,5 +39,5 @@ I like building software that solves real problems and still feels simple to use
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=100:06b6d4,50:1d4ed8,0:0f172a&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=45&section=footer" alt="Waving footer" />
 </p>
 <p align="center">
-  <i>Made with 💙 by <b>Bintang Toba</b></i>
+  <i>Made with 💙 by <b>PT. Delta Polder Indonesia</b></i>
 </p>
