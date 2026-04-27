@@ -1,0 +1,94 @@
+# =====================================================
+# GitHub Action - Generate Snake Contribution Graph
+# =====================================================
+# Fungsi  : Membuat animasi snake yang memakan
+#           kontribusi GitHub kamu
+# Output  : Branch "output" di repo ini
+# Update  : Setiap 12 jam sekali (otomatis)
+# =====================================================
+
+name: Generate Snake
+
+# -------------------------------------------------------
+# Kapan workflow ini berjalan
+# -------------------------------------------------------
+on:
+  # Otomatis setiap 12 jam
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Bisa dijalankan manual dari tab Actions
+  workflow_dispatch:
+
+  # Juga berjalan setiap push ke branch main
+  push:
+    branches:
+      - main
+      # Kalau branch kamu "master", uncomment baris bawah
+      # dan hapus/comment baris "- main" di atas
+      # - master
+
+# -------------------------------------------------------
+# Izin yang dibutuhkan agar bisa push ke branch output
+# -------------------------------------------------------
+permissions:
+  contents: write
+
+# -------------------------------------------------------
+# Job utama
+# -------------------------------------------------------
+jobs:
+  build:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ---------------------------------------------------
+      # Step 1 - Clone repo ini
+      # ---------------------------------------------------
+      - name: 📥 Clone Repository
+        uses: actions/checkout@v4
+
+      # ---------------------------------------------------
+      # Step 2 - Generate file animasi snake
+      # ---------------------------------------------------
+      - name: 🐍 Generate Snake Animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-orange.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-aqua.gif?color_snake=aqua&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-green.gif?color_snake=#00ff00&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-pink.gif?color_snake=#ff69b4&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ---------------------------------------------------
+      # Step 3 - Cek status file yang di-generate
+      # ---------------------------------------------------
+      - name: 📋 Show Build Status
+        run: |
+          echo "==============================="
+          echo "  File yang berhasil dibuat:"
+          echo "==============================="
+          ls -la dist/
+          echo ""
+          echo "Git Status:"
+          git status
+
+      # ---------------------------------------------------
+      # Step 4 - Push file ke branch "output"
+      # ---------------------------------------------------
+      - name: 🚀 Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍 Update snake animations"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
