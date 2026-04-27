@@ -11,7 +11,7 @@
 ##  Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thisisangelo/thisisangelo/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
