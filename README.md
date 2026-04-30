@@ -1,6 +1,6 @@
 <div align="center">
 
-![bintang toba](art/bintang-toba.png)
+![bintang toba](art/b_buatkan_becground_fo.png)
 
 <h1>Hi, I'm Bintang Toba </h1>
 
