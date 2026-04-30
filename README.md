@@ -59,5 +59,5 @@
 ---
 
 <p align="center">
-  <i>© 2015 Bintang Toba — All Rights Reserved</i>
+  <i>© 2024 Bintang Toba — All Rights Reserved</i>
 </p>
