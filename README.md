@@ -12,11 +12,11 @@
   <a href="https://github.com/Delta-Polder-Indonesia">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:anakkostbgusop2@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://discord.com/channels/1500810258824822804/1500810259931988040">
+    <img src="https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
