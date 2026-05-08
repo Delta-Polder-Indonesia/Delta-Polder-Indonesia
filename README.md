@@ -43,34 +43,25 @@
 </div>
 
 ---
-## 🏆 GitHub Trophies
+## D. GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Delta-Polder-Indonesia&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
-## D. Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-## 📈 Activity Graph
+## E. Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delta-Polder-Indonesia&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
-## 💼 Featured Projects
+## F. Contribution Activity
 
-<p align="center">
-  <a href="https://github.com/JD-YH03D/data-puzzel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delta-Polder-Indonesia&repo=data-puzzel&theme=tokyonight&hide_border=true" alt="Data Puzzel Repo" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
