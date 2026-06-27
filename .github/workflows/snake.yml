@@ -1,21 +1,21 @@
 # =====================================================
-# GitHub Action - Generate GitHub Profile Trophy
+# GitHub Action - Generate Snake Contribution Graph
 # =====================================================
-# Fungsi  : Mengambil trophy dari github-profile-trophy
-#           dan menyimpannya sebagai file SVG lokal
+# Fungsi  : Membuat animasi snake yang memakan
+#           kontribusi GitHub kamu
 # Output  : Branch "output" di repo ini
-# Update  : Setiap 6 jam sekali (otomatis)
+# Update  : Setiap 12 jam sekali (otomatis)
 # =====================================================
 
-name: Generate Trophy
+name: Generate Snake
 
 # -------------------------------------------------------
 # Kapan workflow ini berjalan
 # -------------------------------------------------------
 on:
-  # Otomatis setiap 6 jam
+  # Otomatis setiap 12 jam
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */12 * * *"
 
   # Bisa dijalankan manual dari tab Actions
   workflow_dispatch:
@@ -24,6 +24,9 @@ on:
   push:
     branches:
       - main
+      # Kalau branch kamu "master", uncomment baris bawah
+      # dan hapus/comment baris "- main" di atas
+      # - master
 
 # -------------------------------------------------------
 # Izin yang dibutuhkan agar bisa push ke branch output
@@ -36,7 +39,7 @@ permissions:
 # -------------------------------------------------------
 jobs:
   build:
-    name: Generate GitHub Trophy
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
 
     steps:
@@ -48,21 +51,22 @@ jobs:
         uses: actions/checkout@v4
 
       # ---------------------------------------------------
-      # Step 2 - Download trophy SVG dari API
+      # Step 2 - Generate file animasi snake
       # ---------------------------------------------------
-      - name: 🏆 Download Trophy SVG
-        run: |
-          mkdir -p dist
-          echo "Mengunduh trophy untuk user: ${{ github.repository_owner }}"
-          curl -sL "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=15"             -o dist/trophy.svg
-          echo "File berhasil diunduh:"
-          ls -la dist/trophy.svg
-          echo ""
-          echo "Ukuran file:"
-          du -h dist/trophy.svg
-          echo ""
-          echo "Preview 10 baris pertama:"
-          head -10 dist/trophy.svg
+      - name: 🐍 Generate Snake Animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-orange.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-aqua.gif?color_snake=aqua&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-green.gif?color_snake=#00ff00&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-pink.gif?color_snake=#ff69b4&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # ---------------------------------------------------
       # Step 3 - Cek status file yang di-generate
@@ -85,6 +89,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🏆 Update trophy SVG"
+          commit_message: "🐍 Update snake animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
