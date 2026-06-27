@@ -46,7 +46,7 @@
 ## D. GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Delta-Polder-Indonesia&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Delta-Polder-Indonesia&theme=tokyonight&no-frame=true&row=1&column=7&cache=1" alt="GitHub Trophies" />
 </p>
 
 ---
