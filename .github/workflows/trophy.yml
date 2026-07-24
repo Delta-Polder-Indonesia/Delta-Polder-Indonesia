@@ -2,7 +2,7 @@ name: Generate GitHub Profile Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Jalan otomatis setiap hari jam 12 malam UTC
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -12,6 +12,9 @@ on:
 jobs:
   test-trophy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # Penting untuk commit & push
+
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
@@ -21,7 +24,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: ./trophy.svg
+          file: ./trophy.svg          # ← GANTI: output_path → file
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Verify SVG generated
