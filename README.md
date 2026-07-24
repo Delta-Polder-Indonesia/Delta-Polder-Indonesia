@@ -38,29 +38,40 @@
 ## C. GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Delta-Polder-Indonesia&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Delta-Polder-Indonesia&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Delta-Polder-Indonesia&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Delta-Polder-Indonesia&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
-## D. GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Delta-Polder-Indonesia&theme=tokyonight&no-frame=true&row=1&column=7&cache=1" alt="GitHub Trophies" />
-</p>
+## D. GitHub Profile Trophy & Views
+
+<div align="center">
+  <a href="https://u8views.com/github/Delta-Polder-Indonesia">
+    <img src="https://u8views.com/api/v1/github/profiles/Delta-Polder-Indonesia/views/day-week-month-total-count.svg" alt="Profile Views Count">
+  </a>
+  <br /><br />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delta-Polder-Indonesia" alt="Advanced GitHub Stats">
+  <br /><br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Delta-Polder-Indonesia&theme=onedark&margin-w=15&margin-h=15&column=5&no-frame=true" alt="GitHub Profile Trophies" />
+  </a>
+</div>
 
 ---
+
 ## E. Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delta-Polder-Indonesia&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delta-Polder-Indonesia&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
+
 ## F. Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake Animation" />
 </div>
 
 ---
