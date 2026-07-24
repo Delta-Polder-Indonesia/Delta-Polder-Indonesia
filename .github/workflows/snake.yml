@@ -2,7 +2,7 @@
 # GitHub Action - Generate Snake Contribution Graph
 # =====================================================
 # Fungsi  : Membuat animasi snake yang memakan
-#           kontribusi GitHub kamu
+#            kontribusi GitHub kamu
 # Output  : Branch "output" di repo ini
 # Update  : Setiap 12 jam sekali (otomatis)
 # =====================================================
@@ -41,6 +41,8 @@ jobs:
   build:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
 
@@ -85,7 +87,7 @@ jobs:
       # Step 4 - Push file ke branch "output"
       # ---------------------------------------------------
       - name: 🚀 Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
