@@ -1,0 +1,27 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Jalan otomatis setiap hari
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: Delta-Polder-Indonesia
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push Trophy
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git commit -m "Update GitHub Trophies" || exit 0
+          git push

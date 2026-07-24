@@ -9,8 +9,8 @@
 </p>
 
 <p>
-   <a href="https://discord.com/channels/1500810258824822804/1500810259931988040">
-    <img src="https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/channels/1500810258824822804/1500810259931988040">
+    <img src="https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
 </p>
 
@@ -20,17 +20,17 @@
 
 ## A. About Me
 
--  Currently working on **exciting web projects**
--  Learning **TypeScript, Next.js, and Cloud Technologies**
--  Ask me about **React, Node.js, and Database Design**
--  Fun fact: I love solving problems and building things from scratch
+- Currently working on **exciting web projects**
+- Learning **TypeScript, Next.js, and Cloud Technologies**
+- Ask me about **React, Node.js, and Database Design**
+- Fun fact: I love solving problems and building things from scratch
 
 ---
 
 ## B. Technology & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" alt="Technology Stack" />
 </p>
 
 ---
@@ -48,13 +48,13 @@
 
 <div align="center">
   <a href="https://u8views.com/github/Delta-Polder-Indonesia">
-    <img src="https://u8views.com/api/v1/github/profiles/Delta-Polder-Indonesia/views/day-week-month-total-count.svg" alt="Profile Views Count">
+    <img src="https://u8views.com/api/v1/github/profiles/Delta-Polder-Indonesia/views/day-week-month-total-count.svg" alt="Profile Views Count" />
   </a>
   <br /><br />
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delta-Polder-Indonesia" alt="Advanced GitHub Stats">
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delta-Polder-Indonesia" alt="Advanced GitHub Stats" />
   <br /><br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Delta-Polder-Indonesia&theme=onedark&margin-w=15&margin-h=15&column=5&no-frame=true" alt="GitHub Profile Trophies" />
+  <a href="https://github.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia">
+    <img src="./trophy.svg" alt="GitHub Profile Trophies" />
   </a>
 </div>
 
