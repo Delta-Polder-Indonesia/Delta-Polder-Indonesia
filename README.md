@@ -47,15 +47,11 @@
 ## D. GitHub Profile Trophy & Views
 
 <div align="center">
-  <a href="https://u8views.com/github/Delta-Polder-Indonesia">
-    <img src="https://u8views.com/api/v1/github/profiles/Delta-Polder-Indonesia/views/day-week-month-total-count.svg" alt="Profile Views Count" />
-  </a>
+ 
   <br /><br />
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delta-Polder-Indonesia" alt="Advanced GitHub Stats" />
   <br /><br />
-  <a href="https://github.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia">
-    <img src="./trophy.svg" alt="GitHub Profile Trophies" />
-  </a>
+  
 </div>
 
 ---
