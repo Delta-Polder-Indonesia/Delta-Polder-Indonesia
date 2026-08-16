@@ -1,96 +1,109 @@
 <div align="center">
 
-<img src="art/b_buatkan_becground_fo.png" alt="Bintang Toba banner" width="100%" />
+<img src="art/bintang-toba.png" alt="Bintang Toba identity mark" width="620" />
 
-# Hi, I'm Bintang Toba 👋
+# Delta Polder Indonesia
 
-### Full-Stack Developer · Open Source Enthusiast · Lifelong Learner
+**Software Engineering · Digital Product Development · Open Source**
 
 <p>
-  I enjoy turning ideas into useful, maintainable, and accessible digital products.
+  A professional engineering profile maintained by Bintang Toba.<br />
+  Focused on building reliable, maintainable, and accessible software products.
 </p>
 
 <p>
-  <a href="https://github.com/Delta-Polder-Indonesia">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://github.com/Delta-Polder-Indonesia?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-FF5A36?style=for-the-badge&logo=gitbook&logoColor=white" alt="View my projects" />
-  </a>
+  <a href="https://github.com/Delta-Polder-Indonesia?tab=repositories">Repositories</a>
+  ·
+  <a href="https://github.com/Delta-Polder-Indonesia">GitHub Profile</a>
+  ·
+  <a href="https://github.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/issues">Contact</a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## Overview
 
-- 🔭 Building modern and practical web applications
-- 🌱 Learning more about **TypeScript, Next.js, and cloud technologies**
-- 💬 Ask me about **React, Node.js, APIs, and database design**
-- 🤝 Open to collaboration and open-source contributions
-- ⚡ I enjoy solving problems and building products from scratch
+Delta Polder Indonesia is an independent software engineering profile focused on modern web development, backend systems, data management, and open-source collaboration. The objective is to deliver practical digital products through clear architecture, maintainable code, and disciplined engineering practices.
 
-## Technology & Tools
+This profile is maintained by **Bintang Toba**, a full-stack developer with an interest in TypeScript, Next.js, Node.js, databases, cloud technologies, and developer tooling.
 
-<div align="center">
+## Core Capabilities
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode&perline=7" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Prisma, Docker, Git, Figma, and Visual Studio Code" />
-
-</div>
-
-### What I Work With
-
-| Area | Technologies |
+| Capability | Scope |
 | --- | --- |
-| Frontend | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
-| Backend | Node.js, Express, REST APIs |
-| Data | PostgreSQL, MongoDB, Prisma |
-| Tools | Docker, Git, Figma, Visual Studio Code |
+| Web Application Development | Responsive, accessible, and maintainable user-facing applications |
+| Backend Engineering | APIs, application services, authentication, and business logic |
+| Data Management | Relational and document databases, schema design, and data access layers |
+| Product Engineering | Technical planning, implementation, testing, and iterative improvement |
+| Developer Experience | Reproducible environments, version control, documentation, and automation |
 
-## Current Focus
+## Technology Areas
 
-```text
-Building     → Reliable full-stack web applications
-Learning     → Cloud architecture and deployment
-Improving    → Performance, accessibility, and developer experience
-Contributing → Open-source projects and developer communities
-```
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>TypeScript, JavaScript, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, Next.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express, REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL, MongoDB, Prisma</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering Tools</strong></td>
+    <td>Docker, Git, Visual Studio Code, Figma</td>
+  </tr>
+</table>
 
-## Contribution Activity
+## Engineering Principles
 
-<div align="center">
+The work published through this profile is guided by the following principles:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" alt="Bintang Toba's GitHub contribution activity animation" />
-</picture>
+1. **Clarity** — solutions should be understandable, documented, and appropriate for their context.
+2. **Maintainability** — architecture and code should support safe, incremental change.
+3. **Reliability** — expected behavior should be verified through review, validation, and testing.
+4. **Security** — permissions, dependencies, and data should be handled responsibly.
+5. **Accessibility** — digital products should be usable by as many people as reasonably possible.
+6. **Continuous improvement** — tools and practices should evolve based on evidence and experience.
 
-</div>
+## Current Direction
 
-## Explore My Work
+Current areas of learning and development include:
 
-<div align="center">
+- scalable full-stack application architecture;
+- cloud deployment and operational practices;
+- application performance and web accessibility;
+- database design and reliable data access;
+- open-source collaboration and technical documentation.
 
-Interested in what I am building? Browse my public repositories and feel free to open an issue or start a discussion.
+## Projects and Collaboration
 
-<br />
+Public work is available in the [repository directory](https://github.com/Delta-Polder-Indonesia?tab=repositories). Each project should be evaluated using its own documentation, license, release status, and maintenance information.
 
-<a href="https://github.com/Delta-Polder-Indonesia?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-FF5A36?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bintang Toba's repositories" />
-</a>
+Constructive technical discussion, issue reports, and collaboration proposals are welcome. For repository-specific matters, open an issue in the relevant project. For general enquiries about this profile, use the [profile repository issue tracker](https://github.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/issues).
 
-</div>
+## Maintenance
+
+This profile and its public repositories are maintained independently. Project maturity, support level, and contribution requirements may vary between repositories. Refer to each repository for its current status and usage instructions.
 
 ---
 
 <div align="center">
 
-<i>Thanks for visiting — let's build something meaningful.</i>
+<strong>Delta Polder Indonesia</strong><br />
+Software Engineering and Digital Product Development
 
 <br /><br />
 
-<sub>© 2024–2026 Bintang Toba</sub>
+<sub>Maintained by Bintang Toba · Copyright 2024–2026</sub>
 
 </div>
