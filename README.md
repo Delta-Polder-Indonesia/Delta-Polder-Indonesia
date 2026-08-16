@@ -1,16 +1,21 @@
 <div align="center">
 
-![bintang toba](art/b_buatkan_becground_fo.png)
+<img src="art/b_buatkan_becground_fo.png" alt="Bintang Toba banner" width="100%" />
 
-<h1>Hi, I'm Bintang Toba </h1>
+# Hi, I'm Bintang Toba 👋
+
+### Full-Stack Developer · Open Source Enthusiast · Lifelong Learner
 
 <p>
-  <i>Full-Stack Developer • Open Source Enthusiast • Lifelong Learner</i>
+  I enjoy turning ideas into useful, maintainable, and accessible digital products.
 </p>
 
 <p>
-  <a href="https://discord.com/channels/1500810258824822804/1500810259931988040">
-    <img src="https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+  <a href="https://github.com/Delta-Polder-Indonesia">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/Delta-Polder-Indonesia?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-FF5A36?style=for-the-badge&logo=gitbook&logoColor=white" alt="View my projects" />
   </a>
 </p>
 
@@ -18,60 +23,74 @@
 
 ---
 
-## A. About Me
+## About Me
 
-- Currently working on **exciting web projects**
-- Learning **TypeScript, Next.js, and Cloud Technologies**
-- Ask me about **React, Node.js, and Database Design**
-- Fun fact: I love solving problems and building things from scratch
+- 🔭 Building modern and practical web applications
+- 🌱 Learning more about **TypeScript, Next.js, and cloud technologies**
+- 💬 Ask me about **React, Node.js, APIs, and database design**
+- 🤝 Open to collaboration and open-source contributions
+- ⚡ I enjoy solving problems and building products from scratch
 
----
-
-## B. Technology & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" alt="Technology Stack" />
-</p>
-
----
-
-## C. GitHub Stats
+## Technology & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Delta-Polder-Indonesia&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Delta-Polder-Indonesia&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode&perline=7" alt="TypeScript, JavaScript, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Prisma, Docker, Git, Figma, and Visual Studio Code" />
+
+</div>
+
+### What I Work With
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| Backend | Node.js, Express, REST APIs |
+| Data | PostgreSQL, MongoDB, Prisma |
+| Tools | Docker, Git, Figma, Visual Studio Code |
+
+## Current Focus
+
+```text
+Building     → Reliable full-stack web applications
+Learning     → Cloud architecture and deployment
+Improving    → Performance, accessibility, and developer experience
+Contributing → Open-source projects and developer communities
+```
+
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" alt="Bintang Toba's GitHub contribution activity animation" />
+</picture>
+
+</div>
+
+## Explore My Work
+
+<div align="center">
+
+Interested in what I am building? Browse my public repositories and feel free to open an issue or start a discussion.
+
+<br />
+
+<a href="https://github.com/Delta-Polder-Indonesia?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-FF5A36?style=for-the-badge&logo=github&logoColor=white" alt="Explore Bintang Toba's repositories" />
+</a>
+
 </div>
 
 ---
 
-## D. GitHub Profile Trophy & Views
-
 <div align="center">
- 
-  <br /><br />
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delta-Polder-Indonesia" alt="Advanced GitHub Stats" />
-  <br /><br />
-  
+
+<i>Thanks for visiting — let's build something meaningful.</i>
+
+<br /><br />
+
+<sub>© 2024–2026 Bintang Toba</sub>
+
 </div>
-
----
-
-## E. Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delta-Polder-Indonesia&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## F. Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake Animation" />
-</div>
-
----
-
-<p align="center">
-  <i>© 2024 Bintang Toba — All Rights Reserved</i>
-</p>
