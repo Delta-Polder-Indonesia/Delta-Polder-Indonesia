@@ -1,77 +1,109 @@
 <div align="center">
 
-![bintang toba](art/b_buatkan_becground_fo.png)
+<img src="art/bintang-toba.png" alt="Bintang Toba identity mark" width="620" />
 
-<h1>Hi, I'm Bintang Toba </h1>
+# Delta Polder Indonesia
 
-<p>
-  <i>Full-Stack Developer • Open Source Enthusiast • Lifelong Learner</i>
-</p>
+**Software Engineering · Digital Product Development · Open Source**
 
 <p>
-  <a href="https://discord.com/channels/1500810258824822804/1500810259931988040">
-    <img src="https://img.shields.io/badge/discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  </a>
+  A professional engineering profile maintained by Bintang Toba.<br />
+  Focused on building reliable, maintainable, and accessible software products.
+</p>
+
+<p>
+  <a href="https://github.com/Delta-Polder-Indonesia?tab=repositories">Repositories</a>
+  ·
+  <a href="https://github.com/Delta-Polder-Indonesia">GitHub Profile</a>
+  ·
+  <a href="https://github.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/issues">Contact</a>
 </p>
 
 </div>
 
 ---
 
-## A. About Me
+## Overview
 
-- Currently working on **exciting web projects**
-- Learning **TypeScript, Next.js, and Cloud Technologies**
-- Ask me about **React, Node.js, and Database Design**
-- Fun fact: I love solving problems and building things from scratch
+Delta Polder Indonesia is an independent software engineering profile focused on modern web development, backend systems, data management, and open-source collaboration. The objective is to deliver practical digital products through clear architecture, maintainable code, and disciplined engineering practices.
+
+This profile is maintained by **Bintang Toba**, a full-stack developer with an interest in TypeScript, Next.js, Node.js, databases, cloud technologies, and developer tooling.
+
+## Core Capabilities
+
+| Capability | Scope |
+| --- | --- |
+| Web Application Development | Responsive, accessible, and maintainable user-facing applications |
+| Backend Engineering | APIs, application services, authentication, and business logic |
+| Data Management | Relational and document databases, schema design, and data access layers |
+| Product Engineering | Technical planning, implementation, testing, and iterative improvement |
+| Developer Experience | Reproducible environments, version control, documentation, and automation |
+
+## Technology Areas
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>TypeScript, JavaScript, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, Next.js, Tailwind CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Express, REST APIs</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL, MongoDB, Prisma</td>
+  </tr>
+  <tr>
+    <td><strong>Engineering Tools</strong></td>
+    <td>Docker, Git, Visual Studio Code, Figma</td>
+  </tr>
+</table>
+
+## Engineering Principles
+
+The work published through this profile is guided by the following principles:
+
+1. **Clarity** — solutions should be understandable, documented, and appropriate for their context.
+2. **Maintainability** — architecture and code should support safe, incremental change.
+3. **Reliability** — expected behavior should be verified through review, validation, and testing.
+4. **Security** — permissions, dependencies, and data should be handled responsibly.
+5. **Accessibility** — digital products should be usable by as many people as reasonably possible.
+6. **Continuous improvement** — tools and practices should evolve based on evidence and experience.
+
+## Current Direction
+
+Current areas of learning and development include:
+
+- scalable full-stack application architecture;
+- cloud deployment and operational practices;
+- application performance and web accessibility;
+- database design and reliable data access;
+- open-source collaboration and technical documentation.
+
+## Projects and Collaboration
+
+Public work is available in the [repository directory](https://github.com/Delta-Polder-Indonesia?tab=repositories). Each project should be evaluated using its own documentation, license, release status, and maintenance information.
+
+Constructive technical discussion, issue reports, and collaboration proposals are welcome. For repository-specific matters, open an issue in the relevant project. For general enquiries about this profile, use the [profile repository issue tracker](https://github.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/issues).
+
+## Maintenance
+
+This profile and its public repositories are maintained independently. Project maturity, support level, and contribution requirements may vary between repositories. Refer to each repository for its current status and usage instructions.
 
 ---
-
-## B. Technology & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,postgres,mongodb,prisma,docker,git,figma,vscode" alt="Technology Stack" />
-</p>
-
----
-
-## C. GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Delta-Polder-Indonesia&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Delta-Polder-Indonesia&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+
+<strong>Delta Polder Indonesia</strong><br />
+Software Engineering and Digital Product Development
+
+<br /><br />
+
+<sub>Maintained by Bintang Toba · Copyright 2024–2026</sub>
+
 </div>
-
----
-
-## D. GitHub Profile Trophy & Views
-
-<div align="center">
- 
-  <br /><br />
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Delta-Polder-Indonesia" alt="Advanced GitHub Stats" />
-  <br /><br />
-  
-</div>
-
----
-
-## E. Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Delta-Polder-Indonesia&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## F. Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Delta-Polder-Indonesia/Delta-Polder-Indonesia/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake Animation" />
-</div>
-
----
-
-<p align="center">
-  <i>© 2024 Bintang Toba — All Rights Reserved</i>
-</p>
